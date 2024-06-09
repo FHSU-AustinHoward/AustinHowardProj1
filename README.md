@@ -41,3 +41,7 @@ students	may	provide	the	following	private	static	methods:
       private static void quickSortRecursive(int[] arr, int begin, int end);
       ```
 3. The student need to have and only have the above public and private static methods in his/her implementation of MySort class.
+
+## License
+Uses GNU GPL v3.0
+Please see license in main branch.
