@@ -43,5 +43,5 @@ students	may	provide	the	following	private	static	methods:
 3. The student need to have and only have the above public and private static methods in his/her implementation of MySort class.
 
 ## License
-Uses GNU GPL v3.0
+Uses GNU GPL v3.0  
 Please see license in main branch.
