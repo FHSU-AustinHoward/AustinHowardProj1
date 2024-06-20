@@ -1,7 +1,7 @@
 # Project	One:	Compare	Sorting	Algorithms
 * Austin Howard
 * 2024U_CSCI251_VA - Data Structures
-* Jun 9, 2023
+* Jun 9, 2024
 * Instructor: Leticia Rabor
   
 ## Project	Description
